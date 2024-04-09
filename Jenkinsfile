@@ -11,6 +11,7 @@
         registryCredential = 'dockerhub'
     }
 
+
     stages{
 
         stage('BUILD'){
